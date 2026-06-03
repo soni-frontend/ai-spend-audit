@@ -1,16 +1,42 @@
-# React + Vite
+AI Spend Audit
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+AI Spend Audit is a web application designed to help users evaluate AI usage practices and identify opportunities for more responsible, efficient, and transparent AI adoption.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Features
 
-## React Compiler
+- Interactive AI audit questionnaire
+- Automated scoring and evaluation
+- Responsive user interface
+- Mobile-friendly design
+- Fast and intuitive user experience
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tech Stack
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Live Demo
+
+https://ai-spend-audit-kappa-seven.vercel.app/
+
+Installation
+
+git clone <repository-url>
+cd ai-spend-audit
+npm install
+npm run dev
+
+Project Goals
+
+- Promote responsible AI usage
+- Improve transparency and accountability
+- Encourage efficient AI adoption practices
+- Provide actionable audit insights
+
+Author
+
+Soni Kumari
